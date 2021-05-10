@@ -1,0 +1,21 @@
+C:\Users\Chris\source\repos\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe.config
+C:\Users\Chris\source\repos\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe
+C:\Users\Chris\source\repos\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.pdb
+C:\Users\Chris\source\repos\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Alarm Clock\Alarm Clock\obj\Debug\Alarm_Clock.Form1.resources
+C:\Users\Chris\source\repos\Alarm Clock\Alarm Clock\obj\Debug\Alarm_Clock.Properties.Resources.resources
+C:\Users\Chris\source\repos\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.exe
+C:\Users\Chris\source\repos\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.pdb
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe.config
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.pdb
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\obj\Debug\Alarm_Clock.Form1.resources
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\obj\Debug\Alarm_Clock.Properties.Resources.resources
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csproj.GenerateResource.cache
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.exe
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.pdb
+C:\Users\Chris\Documents\Code\Alarm Clock\Alarm Clock\bin\Debug\Program.cs
